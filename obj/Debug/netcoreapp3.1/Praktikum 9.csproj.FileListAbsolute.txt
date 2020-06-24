@@ -1,0 +1,12 @@
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.exe
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.deps.json
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.runtimeconfig.json
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.runtimeconfig.dev.json
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.dll
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\bin\Debug\netcoreapp3.1\Praktikum 9.pdb
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.AssemblyInfoInputs.cache
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.AssemblyInfo.cs
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.dll
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.pdb
+E:\Kuliah\semester 2\Pemprograman\Praktikum 9\Praktikum 9\obj\Debug\netcoreapp3.1\Praktikum 9.genruntimeconfig.cache
